@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://harrymurrihy.dev/](https://harrymurrihy.dev/)
+- 👨‍💻 All of my projects are available at [my website!](https://harrymurrihy.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
